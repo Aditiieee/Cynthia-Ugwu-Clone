@@ -56,3 +56,14 @@ html, body{
 #heading #second{
 	margin-left: 210px;
 }
+
+.blocktext{
+	width: fit-content;
+}
+.blocktext h5{
+	margin-top: 18px;
+	text-align: right;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 1.02vw;
+}
