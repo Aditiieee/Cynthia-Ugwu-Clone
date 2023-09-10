@@ -79,3 +79,33 @@ html, body{
 	font-size: 1.02vw;
 	margin-top: .5vw;
 }
+#herofooter{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 30px;
+	padding: 0 10px;
+	font-size: 1.02vw;
+	font-weight: 800;
+}
+#herofooter a{
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+#iconset{
+	display: flex;
+}
+.circle{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	background-color: #888;
+	opacity: .9;
+	margin: 2px;
+	font-size: 15px;
+	font-weight: 800;
+}
